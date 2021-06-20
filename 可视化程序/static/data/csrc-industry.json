@@ -1,0 +1,63 @@
+[
+	{
+		"code": "A",
+		"industry": "战狼2",
+		"alias": "战狼2",
+		"stock": 567868
+	},
+	{
+		"code": "B",
+		"industry": "你好，李焕英",
+		"alias": "你好，李焕英",
+
+		"stock": 541330
+	},
+	{
+		"code": "C",
+		"industry": "哪吒之魔童降世",
+		"alias": "哪吒之魔童降世",
+		"stock": 500112
+	},
+	{
+		"code": "D",
+		"industry": "流浪地球",
+		"alias": "流浪地球",
+		"stock": 467462
+	},
+	{
+		"code": "E",
+		"industry": "唐人街探案",
+		"alias": "唐人街探案",
+		"stock": 452234
+	},
+	{
+		"code": "F",
+		"industry": "复仇者联盟4：终局之战",
+		"alias": "复仇者联盟4：终局之战",
+		"stock": 423758
+	},
+	{
+		"code": "G",
+		"industry": "红海行动",
+		"alias": "红海行动",
+		"stock": 364728
+	},
+	{
+		"code": "H",
+		"industry": "唐人街探案2",
+		"alias": "唐人街探案2",
+		"stock": 339738
+	},
+	{
+		"code": "I",
+		"industry": "美人鱼",
+		"alias": "美人鱼",
+		"stock": 339211
+	},
+	{
+		"code": "J",
+		"industry": "我和我的祖国",
+		"alias": "我和我的祖国",
+		"stock": 317118
+	}
+]

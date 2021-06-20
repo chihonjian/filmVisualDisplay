@@ -1,0 +1,58 @@
+[
+	{
+		"order": 1,
+		"stock_name": "唐人街探案3",
+		"market_capitalization": 3136000000
+	},
+	{
+		"order": 2,
+		"stock_name": "你好，李焕英",
+		"market_capitalization": 1861000000
+	},
+	{
+		"order": 3,
+		"stock_name": "送你一朵小红花",
+		"market_capitalization": 1195000000
+	},
+	{
+		"order": 4,
+
+		"stock_name": "拆弹专家2",
+		"market_capitalization": 707000000
+	},
+	{
+		"order": 5,
+
+		"stock_name": "温暖的抱抱",
+		"market_capitalization": 669000000
+	},
+	{
+		"order": 6,
+
+		"stock_name": "刺杀小说家",
+		"market_capitalization": 425000000
+	},
+	{
+		"order": 7,
+
+		"stock_name": "熊出没·狂野大陆",
+		"market_capitalization": 300000000
+	},
+	{
+		"order": 8,
+
+		"stock_name": "心灵奇旅",
+		"market_capitalization": 295000000
+	},
+	{
+		"order": 9,
+
+		"stock_name": "大红包",
+		"market_capitalization": 235000000
+	},
+	{
+		"order": 10,
+		"stock_name": "侍神令",
+		"market_capitalization": 190000000
+	}
+]
